@@ -11,7 +11,7 @@ Welcome to the Fake News Detection project! This repository contains the code an
 - [Models](#models)
 - [Results](#results)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Introduction
 
