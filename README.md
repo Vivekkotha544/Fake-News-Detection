@@ -101,7 +101,7 @@ Both datasets include features such as the news title, text, and label (real or 
 
 ## Models
 
-We have implemented several machine learning models to detect fake news, including:
+I have implemented several machine learning models to detect fake news, including:
 
 - **Logistic Regression**
 - **Decision Tree Classifier**
@@ -116,6 +116,6 @@ The performance of the models is evaluated using metrics such as accuracy, preci
 
 ## Contributing
 
-We welcome contributions to improve this project! If you have any suggestions or find any issues, please open an issue or submit a pull request.
+I welcome contributions to improve this project! If you have any suggestions or find any issues, please open an issue or submit a pull request.
 
 
